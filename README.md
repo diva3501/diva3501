@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 💻 A Passionate Full Stack Developer | 🌐 MERN Stack Enthusiast | 🤖 Beginner in AI/ML Projects
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm currently in Chennai
 * ✉️  You can contact me at [divakar3501@gmail.com](mailto:divakar3501@gmail.com)
 * 🤝  I'm open to collaborating on projects based on Full stack and AIML
 
